@@ -2,10 +2,13 @@
 QBCore leeggoed Script
 
 **Video**
+
 https://youtu.be/7yR1H3wd-p0
 
 **Dependencies**
-qb-core (framework): https://github.com/qbcore-framework/qb-core
+qb-core (framework)
+
+https://github.com/qbcore-framework/qb-core
     
 **Core items**
 
