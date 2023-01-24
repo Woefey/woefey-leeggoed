@@ -13,6 +13,7 @@ https://github.com/qbcore-framework/qb-core
 **Core items**
 
 -- Leeggoed --
+
 ['leeggoed_lg1'] 				 = {['name'] = 'leeggoed_lg1', 			  	  	['label'] = 'Leeggoed', 		        ['weight'] = 100, 		['type'] = 'item', 		['image'] = 'leeggoed_lg1.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Leeggoed!'},
 ['leeggoed_lg2'] 				 = {['name'] = 'leeggoed_lg2', 			  	  	['label'] = 'Leeggoed', 		        ['weight'] = 100, 		['type'] = 'item', 		['image'] = 'leeggoed_lg2.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Leeggoed!'},
 ['leeggoed_lg3'] 				 = {['name'] = 'leeggoed_lg3', 			  	  	['label'] = 'Leeggoed', 		        ['weight'] = 100, 		['type'] = 'item', 		['image'] = 'leeggoed_lg3.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Leeggoed!'},
