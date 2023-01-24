@@ -1,5 +1,5 @@
 # woefey-leeggoed
-QBCore leeggoed Script
+qbcore leeggoed Script
 
 **Video**
 
